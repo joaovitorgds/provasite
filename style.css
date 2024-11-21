@@ -1,0 +1,21 @@
+body {
+    background-color: #e0e0e0;
+}
+
+header {
+    background-color: yellow;
+    color: white;
+    padding: 20px;
+}
+
+section {
+    background-color: green;
+    color: white;
+    padding: 10px;
+}
+
+footer {
+    background-color: pink;
+    color: black;
+    padding: 10px;
+}

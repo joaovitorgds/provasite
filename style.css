@@ -21,7 +21,8 @@ section {
 footer {
     background-color: rgb(5, 25, 70);
     color: rgb(199, 215, 245);
-    padding: 300px;
+    padding: 0%;
     text-align: center;
-    margin: 0px;
+    margin: 500px;
+    size: 20px;
 }
